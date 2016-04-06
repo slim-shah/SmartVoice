@@ -9,4 +9,5 @@ SmartVoice supports following language French,German,Chinese,Italian,Taiwanese,E
 
 if you encounter with following message "Feature not supported in your device" then you have to download that launguage pack in your phone
 <br>
+
 PS: This App only works on Lollipop or Above version.
