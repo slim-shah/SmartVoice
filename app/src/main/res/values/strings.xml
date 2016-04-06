@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SmartVoice</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_smart_voice">SmartVoice</string>
+    <string name="SmartVoice">Smart Voice</string>
+    <string name="Meet">Meet Shah</string>
+    <string name="Keval">Keval Varotaria</string>
+    <string name="title_activity_load_data">LoadData</string>
+</resources>
